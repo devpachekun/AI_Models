@@ -4,3 +4,6 @@ appsettings.json
 # Ignorar carpetas de compilación
 bin/
 obj/
+
+# Ignorar archivos
+.DS_Store
