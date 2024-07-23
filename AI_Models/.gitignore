@@ -1,0 +1,6 @@
+# Ignorar secret settings
+appsettings.json
+
+# Ignorar carpetas de compilación
+bin/
+obj/
